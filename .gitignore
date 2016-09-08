@@ -1,0 +1,12 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore bundler gems.
+vender/bundler
+
+# Ignore other unneeded files.
+doc/
+*.swp
+.DS_Store
+.idea
+.secret
